@@ -34,3 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shoaib749&theme=dark)](https://git.io/streak-stats)
+
+<br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shoaib749&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
